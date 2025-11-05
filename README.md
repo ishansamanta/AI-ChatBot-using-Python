@@ -1,3 +1,3 @@
-# Create your own personalised chatbots in just 5 shells!! using colab and groq
+# Create your own personalised chatbots in just 5 cells!! using colab and groq
 ## Free and an open source project where you can make the AI more personalise and more visually appealing using UI.
 ### Take a look here : https://colab.research.google.com/drive/1cMzk-FyFU6N_IsNxKYirHnsttsyLXJuA
